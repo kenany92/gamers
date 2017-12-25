@@ -4,7 +4,7 @@
   "description": "small gamer app for FAFI players by Services Laplage",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon server.js"
   },
   "author": "Armel NYOBE KENDECK",
   "license": "ISC",
